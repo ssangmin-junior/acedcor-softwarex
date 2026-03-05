@@ -1,0 +1,4 @@
+scenario,n,repeats,B,alpha,reject_rate_raw,reject_rate_after_ace
+Independent,180,25,99,0.05,0.04,0.08
+Monotonic (x^3),180,25,99,0.05,1.0,1.0
+Symmetric (x^2),180,25,99,0.05,0.16,0.16
